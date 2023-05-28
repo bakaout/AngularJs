@@ -13,3 +13,6 @@ console.log(declarations(1, 7))
 const expression = function(){
 
 }
+
+//3 function arrow
+const Arrow = () => {}
